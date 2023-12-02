@@ -8,26 +8,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb640ba-92fa-4581-8b17-a05ee481efb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day2/Input.txt" afterDir="false" />
+    <list default="true" id="4eb640ba-92fa-4581-8b17-a05ee481efb9" name="Changes" comment="Add gitignore">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AdventOfCode2023/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AdventOfCode2023/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode2023.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2023.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1/bin/Debug/net8.0/Day1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/bin/Debug/net8.0/Day1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1/bin/Debug/net8.0/Day1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/bin/Debug/net8.0/Day1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1/bin/Debug/net8.0/Day1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/bin/Debug/net8.0/Day1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1/obj/Debug/net8.0/Day1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/obj/Debug/net8.0/Day1.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1/obj/Debug/net8.0/Day1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/obj/Debug/net8.0/Day1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1/obj/Debug/net8.0/Day1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/obj/Debug/net8.0/Day1.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1/obj/Debug/net8.0/Day1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/obj/Debug/net8.0/Day1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1/obj/Debug/net8.0/Day1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/obj/Debug/net8.0/Day1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1/obj/Debug/net8.0/ref/Day1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/obj/Debug/net8.0/ref/Day1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1/obj/Debug/net8.0/refint/Day1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/obj/Debug/net8.0/refint/Day1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day2/Input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day2/Input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Day2/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day2/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Day2/obj/Debug/net8.0/apphost.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
@@ -115,7 +110,7 @@
       <updated>1701446802152</updated>
       <workItem from="1701446802931" duration="4414000" />
       <workItem from="1701464663853" duration="107000" />
-      <workItem from="1701504433049" duration="7345000" />
+      <workItem from="1701504433049" duration="8951000" />
     </task>
     <task id="LOCAL-00001" summary="Solved Day 1">
       <option name="closed" value="true" />
@@ -125,7 +120,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701451324118</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Solved Day 2 Part 1">
+      <option name="closed" value="true" />
+      <created>1701515216125</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701515216125</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add gitignore">
+      <option name="closed" value="true" />
+      <created>1701515461907</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701515461907</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,23 +157,25 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Solved Day 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved Day 1" />
+    <MESSAGE value="Solved Day 2 Part 1" />
+    <MESSAGE value="Add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Day2/Program.cs</url>
-          <line>16</line>
-          <properties documentPath="D:\WorkingProjects\AdventOfCode2023\Day2\Program.cs" initialLine="16" containingFunctionPresentation="Method 'Main'">
+          <line>24</line>
+          <properties documentPath="D:\WorkingProjects\AdventOfCode2023\Day2\Program.cs" initialLine="24" containingFunctionPresentation="Method 'Main'">
             <startOffsets>
-              <option value="527" />
+              <option value="865" />
             </startOffsets>
             <endOffsets>
-              <option value="568" />
+              <option value="898" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="7" />
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
