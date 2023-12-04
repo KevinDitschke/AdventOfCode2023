@@ -35,7 +35,6 @@ internal class Program
             { "eight", 8 },
             { "nine", 9 },
         };
-
         return match.Length > 1 ? digitDictionary[match] : match[0] - '0';
     }
 }
