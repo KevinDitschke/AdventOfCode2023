@@ -28,8 +28,6 @@ internal class Program
                 }
 
                 numberBuilder.Append(array[i][j]);
-                if (numberBuilder.ToString() == "409")
-                    Console.WriteLine("409!!!!!");
                 if (IsAdjacent(array, i, j + 1)
                     || IsAdjacent(array, i - 1, j + 1)
                     || IsAdjacent(array, i, j - 1)
@@ -39,8 +37,6 @@ internal class Program
                     || IsAdjacent(array, i + 1, j - 1)
                     || IsAdjacent(array, i - 1, j - 1))
                     isAdjacent = true;
-
-                Console.WriteLine($"{i}, {j}: {array[i][j]}");
             }
         }
 
@@ -53,7 +49,6 @@ internal class Program
         {
             if (Regex.Match(array[row][column].ToString(), specialCharPattern).Success)
             {
-                Console.WriteLine($"Matching symbol:{array[row][column]}");
                 return true;
             }
         }
